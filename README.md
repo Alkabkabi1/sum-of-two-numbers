@@ -1,2 +1,2 @@
-# sum-of-two-numbers
+# Digits_add
 a leetcode exercise i solved
